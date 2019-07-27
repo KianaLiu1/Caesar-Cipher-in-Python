@@ -1,0 +1,10 @@
+﻿Bash script
+
+
+#!/bin/bash
+echo this is the bash script for caesar cipher
+echo
+Echo
+mkdir hackAnswer
+cp answer.txt /root/Desktop/answer.txt
+ls /root/Desktop/
